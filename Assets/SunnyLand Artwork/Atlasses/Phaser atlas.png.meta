@@ -1,0 +1,3731 @@
+fileFormatVersion: 2
+guid: a7b092dcf80b0e54dba89d2ba6447152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 420240706469606071
+    second: Phaser atlas_0
+  - first:
+      213: -7143677027808827158
+    second: Phaser atlas_1
+  - first:
+      213: 1760780999830721099
+    second: Phaser atlas_2
+  - first:
+      213: -150864508706514594
+    second: Phaser atlas_3
+  - first:
+      213: 3944072491929548388
+    second: Phaser atlas_4
+  - first:
+      213: 651671180215934332
+    second: Phaser atlas_5
+  - first:
+      213: 1965462583959535958
+    second: Phaser atlas_6
+  - first:
+      213: 2461761022154431468
+    second: Phaser atlas_7
+  - first:
+      213: 8897894817574200244
+    second: Phaser atlas_8
+  - first:
+      213: -6424859060035807402
+    second: Phaser atlas_9
+  - first:
+      213: -5411878947863332624
+    second: Phaser atlas_10
+  - first:
+      213: 1174694260921437334
+    second: Phaser atlas_11
+  - first:
+      213: 4692530095559051627
+    second: Phaser atlas_12
+  - first:
+      213: -2537068021704171271
+    second: Phaser atlas_13
+  - first:
+      213: -7345542898683608228
+    second: Phaser atlas_14
+  - first:
+      213: -4626988750196202266
+    second: Phaser atlas_15
+  - first:
+      213: -6482095676551222220
+    second: Phaser atlas_16
+  - first:
+      213: -5927502838703729889
+    second: Phaser atlas_17
+  - first:
+      213: 3807749757508486472
+    second: Phaser atlas_18
+  - first:
+      213: -2387065219693345826
+    second: Phaser atlas_19
+  - first:
+      213: 2688422966946563103
+    second: Phaser atlas_20
+  - first:
+      213: -7457313274261211194
+    second: Phaser atlas_21
+  - first:
+      213: -1344254513012755550
+    second: Phaser atlas_22
+  - first:
+      213: 1460068611693336530
+    second: Phaser atlas_23
+  - first:
+      213: 6474011009642865364
+    second: Phaser atlas_24
+  - first:
+      213: -5063145439104822814
+    second: Phaser atlas_25
+  - first:
+      213: -1086229833033585183
+    second: Phaser atlas_26
+  - first:
+      213: -6893385293643864813
+    second: Phaser atlas_27
+  - first:
+      213: -68365119811909034
+    second: Phaser atlas_28
+  - first:
+      213: -1394058622007141666
+    second: Phaser atlas_29
+  - first:
+      213: -2009028845024566471
+    second: Phaser atlas_30
+  - first:
+      213: 1415836839199113212
+    second: Phaser atlas_31
+  - first:
+      213: 3846388655454725335
+    second: Phaser atlas_32
+  - first:
+      213: 5580299577756706642
+    second: Phaser atlas_33
+  - first:
+      213: 1972638446233208459
+    second: Phaser atlas_34
+  - first:
+      213: 823431428462001019
+    second: Phaser atlas_35
+  - first:
+      213: -6649548064560406774
+    second: Phaser atlas_36
+  - first:
+      213: 1185277980385791464
+    second: Phaser atlas_37
+  - first:
+      213: -4986901846557580041
+    second: Phaser atlas_38
+  - first:
+      213: -1998994538740530634
+    second: Phaser atlas_39
+  - first:
+      213: 3967887764974355076
+    second: Phaser atlas_40
+  - first:
+      213: 7534496350093284146
+    second: Phaser atlas_41
+  - first:
+      213: -6457810383230852049
+    second: Phaser atlas_42
+  - first:
+      213: -6761554768989169845
+    second: Phaser atlas_43
+  - first:
+      213: -2172380435879789919
+    second: Phaser atlas_44
+  - first:
+      213: 108168464524754109
+    second: Phaser atlas_45
+  - first:
+      213: 6965602729052413712
+    second: Phaser atlas_46
+  - first:
+      213: 4664128746272760535
+    second: Phaser atlas_47
+  - first:
+      213: -4223375475604827898
+    second: Phaser atlas_48
+  - first:
+      213: -6328541687947678756
+    second: Phaser atlas_49
+  - first:
+      213: -818262883784884148
+    second: Phaser atlas_50
+  - first:
+      213: -681794160899811619
+    second: Phaser atlas_51
+  - first:
+      213: 4672457550767674687
+    second: Phaser atlas_52
+  - first:
+      213: 67908382486044781
+    second: Phaser atlas_53
+  - first:
+      213: -1733448615760066664
+    second: Phaser atlas_54
+  - first:
+      213: 2122416277231636245
+    second: Phaser atlas_55
+  - first:
+      213: -1130521784151677529
+    second: Phaser atlas_56
+  - first:
+      213: 3845415900506675191
+    second: Phaser atlas_57
+  - first:
+      213: -4177520130905239929
+    second: Phaser atlas_58
+  - first:
+      213: 680131740552682921
+    second: Phaser atlas_59
+  - first:
+      213: -8463760568113687600
+    second: Phaser atlas_60
+  - first:
+      213: -1498602000757267609
+    second: Phaser atlas_61
+  - first:
+      213: -2215437001412971293
+    second: Phaser atlas_62
+  - first:
+      213: 6135311551167321227
+    second: Phaser atlas_63
+  - first:
+      213: 79289699548566983
+    second: Phaser atlas_64
+  - first:
+      213: -2549764345488039537
+    second: Phaser atlas_65
+  - first:
+      213: -6005084693977482755
+    second: Phaser atlas_66
+  - first:
+      213: -2528407213294279772
+    second: Phaser atlas_67
+  - first:
+      213: -5332953149411869044
+    second: Phaser atlas_68
+  - first:
+      213: 2819660564278334548
+    second: Phaser atlas_69
+  - first:
+      213: -2975886584534018890
+    second: Phaser atlas_70
+  - first:
+      213: -5825881559897939616
+    second: Phaser atlas_71
+  - first:
+      213: 8504468388333287531
+    second: Phaser atlas_72
+  - first:
+      213: 669540407203955720
+    second: Phaser atlas_73
+  - first:
+      213: 4800601385329436928
+    second: Phaser atlas_74
+  - first:
+      213: 3907011188584887540
+    second: Phaser atlas_75
+  - first:
+      213: 4977736104997865982
+    second: Phaser atlas_76
+  - first:
+      213: 1583768979316382991
+    second: Phaser atlas_77
+  - first:
+      213: 7014368771684559451
+    second: Phaser atlas_78
+  - first:
+      213: -7889454356728729218
+    second: Phaser atlas_79
+  - first:
+      213: 8390933837070039175
+    second: Phaser atlas_80
+  - first:
+      213: 4437969919073578736
+    second: Phaser atlas_81
+  - first:
+      213: -1148998743881957669
+    second: Phaser atlas_82
+  - first:
+      213: 7501721643374795125
+    second: Phaser atlas_83
+  - first:
+      213: -5306034238639887365
+    second: Phaser atlas_84
+  - first:
+      213: 7032325020913154234
+    second: Phaser atlas_85
+  - first:
+      213: -2602030269929337975
+    second: Phaser atlas_86
+  - first:
+      213: -5681355775771170833
+    second: Phaser atlas_87
+  - first:
+      213: 5025925659555113643
+    second: Phaser atlas_88
+  - first:
+      213: -2648393819419522450
+    second: Phaser atlas_89
+  - first:
+      213: -1176779893241998577
+    second: Phaser atlas_90
+  - first:
+      213: -6793096039736414783
+    second: Phaser atlas_91
+  - first:
+      213: 4431731578700063911
+    second: Phaser atlas_92
+  - first:
+      213: -5622577562061242888
+    second: Phaser atlas_93
+  - first:
+      213: -7699781944992490044
+    second: Phaser atlas_94
+  - first:
+      213: -3621805858400476394
+    second: Phaser atlas_95
+  - first:
+      213: 864395113334553374
+    second: Phaser atlas_96
+  - first:
+      213: 6889042225483905134
+    second: Phaser atlas_97
+  - first:
+      213: 7797451649385227556
+    second: Phaser atlas_98
+  - first:
+      213: -6705792652920286584
+    second: Phaser atlas_99
+  - first:
+      213: -3845173326102991064
+    second: Phaser atlas_100
+  - first:
+      213: 2701764756067581143
+    second: Phaser atlas_101
+  - first:
+      213: 4986374452568733478
+    second: Phaser atlas_102
+  - first:
+      213: -649730926786148705
+    second: Phaser atlas_103
+  - first:
+      213: 1656773377524502845
+    second: Phaser atlas_104
+  - first:
+      213: -7224328715572170125
+    second: Phaser atlas_105
+  - first:
+      213: -4176836145599949492
+    second: Phaser atlas_106
+  - first:
+      213: -4170784272953234646
+    second: Phaser atlas_107
+  - first:
+      213: -514627115072124738
+    second: Phaser atlas_108
+  - first:
+      213: -756296643935977118
+    second: Phaser atlas_109
+  - first:
+      213: -4056619053159186253
+    second: Phaser atlas_110
+  - first:
+      213: -4817507190092363932
+    second: Phaser atlas_111
+  - first:
+      213: 2316088648086854330
+    second: Phaser atlas_112
+  - first:
+      213: -7535636410997978460
+    second: Phaser atlas_113
+  - first:
+      213: -290101711330091333
+    second: Phaser atlas_114
+  - first:
+      213: -6538252704994545195
+    second: Phaser atlas_115
+  - first:
+      213: 8414061299841917915
+    second: Phaser atlas_116
+  - first:
+      213: 8624643325721637123
+    second: Phaser atlas_117
+  - first:
+      213: -3274199097376182446
+    second: Phaser atlas_118
+  - first:
+      213: 7681617882486870569
+    second: Phaser atlas_119
+  - first:
+      213: -5556881545179207535
+    second: Phaser atlas_120
+  - first:
+      213: 930338792154076972
+    second: Phaser atlas_121
+  - first:
+      213: 3855033431914802904
+    second: Phaser atlas_122
+  - first:
+      213: -2767873522094109595
+    second: Phaser atlas_123
+  - first:
+      213: -8170001027295258195
+    second: Phaser atlas_124
+  - first:
+      213: 319237064821804615
+    second: Phaser atlas_125
+  - first:
+      213: 58289585885105777
+    second: Phaser atlas_126
+  - first:
+      213: 1265675954217872870
+    second: Phaser atlas_127
+  - first:
+      213: 6016445936930701501
+    second: Phaser atlas_128
+  - first:
+      213: -7361556713921006754
+    second: Phaser atlas_129
+  - first:
+      213: 2391945087597367872
+    second: Phaser atlas_130
+  - first:
+      213: -8562754814235156771
+    second: Phaser atlas_131
+  - first:
+      213: -1881842231165881193
+    second: Phaser atlas_132
+  - first:
+      213: -2910607150361805075
+    second: Phaser atlas_133
+  - first:
+      213: -4415615382699585858
+    second: Phaser atlas_134
+  - first:
+      213: -8501081416894468337
+    second: Phaser atlas_135
+  - first:
+      213: 4877378408043393651
+    second: Phaser atlas_136
+  - first:
+      213: -5939413400920081023
+    second: Phaser atlas_137
+  - first:
+      213: -4342231456185998937
+    second: Phaser atlas_138
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Phaser atlas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 978
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b74d22bef4d500800000000000000
+      internalID: 420240706469606071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 978
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8265f879f8cdc90800000000000000
+      internalID: -7143677027808827158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 978
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42da268dfc8f6810800000000000000
+      internalID: 1760780999830721099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 979
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e599555578508edf0800000000000000
+      internalID: -150864508706514594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 978
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466b9d9e8092cb630800000000000000
+      internalID: 3944072491929548388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 977
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d51275c733b0900800000000000000
+      internalID: 651671180215934332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 978
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ca308ec9b64b10800000000000000
+      internalID: 1965462583959535958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 978
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebda6f4b9ee92220800000000000000
+      internalID: 2461761022154431468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 954
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3ac4a813cab7b70800000000000000
+      internalID: 8897894817574200244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 954
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6579d9aa9b056d6a0800000000000000
+      internalID: -6424859060035807402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_10
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 957
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8f03135c425e4b0800000000000000
+      internalID: -5411878947863332624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 952
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c89edd43a5d4010800000000000000
+      internalID: 1174694260921437334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 952
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6980a382473f1140800000000000000
+      internalID: 4692530095559051627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 947
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e15383168accd0800000000000000
+      internalID: -2537068021704171271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 952
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530299e6a36f0a90800000000000000
+      internalID: -7345542898683608228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 950
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4a3dc1f32a9cfb0800000000000000
+      internalID: -4626988750196202266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 925
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ca1176358fa06a0800000000000000
+      internalID: -6482095676551222220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 923
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13d1fdc2974dbda0800000000000000
+      internalID: -5927502838703729889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 924
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8458fd9ea38d7d430800000000000000
+      internalID: 3807749757508486472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 924
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed30d7474d07fded0800000000000000
+      internalID: -2387065219693345826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 924
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f140adec1723f4520800000000000000
+      internalID: 2688422966946563103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 924
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7fadc661d428890800000000000000
+      internalID: -7457313274261211194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 924
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3b82084af385de0800000000000000
+      internalID: -1344254513012755550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 921
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7dda3aaa4334410800000000000000
+      internalID: 1460068611693336530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 892
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d22bb566be48d950800000000000000
+      internalID: 6474011009642865364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 891
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e194008c081cb9b0800000000000000
+      internalID: -5063145439104822814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 891
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede991d8bfece0f0800000000000000
+      internalID: -1086229833033585183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 892
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a4702996c550a0800000000000000
+      internalID: -6893385293643864813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 892
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a8596294e1d0ff0800000000000000
+      internalID: -68365119811909034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 896
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda913fb11f47ace0800000000000000
+      internalID: -1394058622007141666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 893
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9332cc4e8ee7e14e0800000000000000
+      internalID: -2009028845024566471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 895
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffff549a1016a310800000000000000
+      internalID: 1415836839199113212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 862
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4a8746a1e116530800000000000000
+      internalID: 3846388655454725335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_33
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 859
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257637876e4317d40800000000000000
+      internalID: 5580299577756706642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_34
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 859
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8642022738306b10800000000000000
+      internalID: 1972638446233208459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 859
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bbe5e758a6d6b00800000000000000
+      internalID: 823431428462001019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 860
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f9dfe144f08b3a0800000000000000
+      internalID: -6649548064560406774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 860
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edccf41b04f27010800000000000000
+      internalID: 1185277980385791464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_38
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 862
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4223a3137facab0800000000000000
+      internalID: -4986901846557580041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 860
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632cc62ee052244e0800000000000000
+      internalID: -1998994538740530634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4824ae346e4c01730800000000000000
+      internalID: 3967887764974355076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 832
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23399ccc288ef8860800000000000000
+      internalID: 7534496350093284146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 828
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2422b0ebaf3166a0800000000000000
+      internalID: -6457810383230852049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 829
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b475d0903c12a22a0800000000000000
+      internalID: -6761554768989169845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 827
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa706ad0872ad1e0800000000000000
+      internalID: -2172380435879789919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 829
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb5e735aa408100800000000000000
+      internalID: 108168464524754109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 829
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f19a7d6cacaa060800000000000000
+      internalID: 6965602729052413712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_47
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 829
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2a64412605ab040800000000000000
+      internalID: 4664128746272760535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 796
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6015a7f916e8365c0800000000000000
+      internalID: -4223375475604827898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 796
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdba0a76dd08c28a0800000000000000
+      internalID: -6328541687947678756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 800
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c408d171e32f4a4f0800000000000000
+      internalID: -818262883784884148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 796
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd691ada2d7c986f0800000000000000
+      internalID: -681794160899811619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 796
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35599df267e7d040800000000000000
+      internalID: 4672457550767674687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 796
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d602a57605241f000800000000000000
+      internalID: 67908382486044781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_54
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 797
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8978a3d0bad81f7e0800000000000000
+      internalID: -1733448615760066664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 765
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f06edeb56547d10800000000000000
+      internalID: 2122416277231636245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 735
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56cc45d649f40f0800000000000000
+      internalID: -1130521784151677529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 769
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7d65b3369ad5530800000000000000
+      internalID: 3845415900506675191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 767
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e895b03977606c0800000000000000
+      internalID: -4177520130905239929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 766
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad5c1ce630507900800000000000000
+      internalID: 680131740552682921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 764
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d310a13b9eaa8a80800000000000000
+      internalID: -8463760568113687600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 766
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7636c259b65e33be0800000000000000
+      internalID: -1498602000757267609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f58cf8cf2141e0800000000000000
+      internalID: -2215437001412971293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_63
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 758
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84dda97951052550800000000000000
+      internalID: 6135311551167321227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 733
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c590f7cf81b91100800000000000000
+      internalID: 79289699548566983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_65
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 751
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81aa3646da6d9cd0800000000000000
+      internalID: -2549764345488039537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 752
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df936518947a9aca0800000000000000
+      internalID: -6005084693977482755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 756
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a32f0c190b49ecd0800000000000000
+      internalID: -2528407213294279772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_68
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 755
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e3185ad5b8df5b0800000000000000
+      internalID: -5332953149411869044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_69
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 734
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454dcf01852712720800000000000000
+      internalID: 2819660564278334548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_70
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 734
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4dff41be683b6d0800000000000000
+      internalID: -2975886584534018890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_71
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 732
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e8ce869f462fa0800000000000000
+      internalID: -5825881559897939616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 746
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f42ac0f0f50670800000000000000
+      internalID: 8504468388333287531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_73
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 735
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048926f37faa4900800000000000000
+      internalID: 669540407203955720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_74
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 745
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0092fc876892f9240800000000000000
+      internalID: 4800601385329436928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_75
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 738
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4341dc9fd783630800000000000000
+      internalID: 3907011188584887540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 735
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9c8044d98741540800000000000000
+      internalID: 4977736104997865982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 700
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d9f6ade7daaf510800000000000000
+      internalID: 1583768979316382991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_78
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 700
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae9dfeb3b085160800000000000000
+      internalID: 7014368771684559451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_79
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 700
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71b68b0017038290800000000000000
+      internalID: -7889454356728729218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 726
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7887d542ed5927470800000000000000
+      internalID: 8390933837070039175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_81
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 702
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feef36c026d69d30800000000000000
+      internalID: 4437969919073578736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 698
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdebb87eabfed00f0800000000000000
+      internalID: -1148998743881957669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_83
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 699
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579d63db6187b1860800000000000000
+      internalID: 7501721643374795125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_84
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 696
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb2fc7f8fd2d56b0800000000000000
+      internalID: -5306034238639887365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_85
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 664
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8be900956d79160800000000000000
+      internalID: 7032325020913154234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 662
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4c02714bb3ebd0800000000000000
+      internalID: -2602030269929337975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_87
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 658
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ab86e505c721b0800000000000000
+      internalID: -5681355775771170833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_88
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 658
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaad4542ccafb540800000000000000
+      internalID: 5025925659555113643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_89
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 664
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ac8206ad30f3bd0800000000000000
+      internalID: -2648393819419522450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_90
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 663
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f031d740cec3bafe0800000000000000
+      internalID: -1176779893241998577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_91
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 623
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cde56aa4231ab1a0800000000000000
+      internalID: -6793096039736414783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 634
+        width: 49
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a46c48f36ca08d30800000000000000
+      internalID: 4431731578700063911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_93
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 621
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdf14b3f7798f1b0800000000000000
+      internalID: -5622577562061242888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 612
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd91c0cd11e42590800000000000000
+      internalID: -7699781944992490044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 618
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6136c9cc2c2ccbdc0800000000000000
+      internalID: -3621805858400476394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 571
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bb3eb96c2fefb00800000000000000
+      internalID: 864395113334553374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 567
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6872a4876bca9f50800000000000000
+      internalID: 6889042225483905134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 583
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e3e266fc163c60800000000000000
+      internalID: 7797451649385227556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_99
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 583
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88213496c1d30f2a0800000000000000
+      internalID: -6705792652920286584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 529
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fe2d58b3333aac0800000000000000
+      internalID: -3845173326102991064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 541
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcf3182bb89e7520800000000000000
+      internalID: 2701764756067581143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 543
+        width: 61
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627317a4529233540800000000000000
+      internalID: 4986374452568733478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 502
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96835d1a21bbf6f0800000000000000
+      internalID: -649730926786148705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_104
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 483
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d311ca0eb9a0ef610800000000000000
+      internalID: 1656773377524502845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 484
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372baaf2f470ebb90800000000000000
+      internalID: -7224328715572170125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_106
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 484
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45d088c7a5e806c0800000000000000
+      internalID: -4176836145599949492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 453
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b26df2dc56e16c0800000000000000
+      internalID: -4170784272953234646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_108
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 449
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8875e8d5dabd8f0800000000000000
+      internalID: -514627115072124738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_109
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 429
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261406995381185f0800000000000000
+      internalID: -756296643935977118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 433
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b08d5bc67ef3b7c0800000000000000
+      internalID: -4056619053159186253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_111
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 440
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46787af1cb6c42db0800000000000000
+      internalID: -4817507190092363932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_112
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 435
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba1881ba56642020800000000000000
+      internalID: 2316088648086854330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_113
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 431
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa47f51c9a0c6790800000000000000
+      internalID: -7535636410997978460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 411
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbedf63d70a59fbf0800000000000000
+      internalID: -290101711330091333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_115
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 398
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d130135ec57345a0800000000000000
+      internalID: -6538252704994545195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3607f2c20c4c470800000000000000
+      internalID: 8414061299841917915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301f410d863e0b770800000000000000
+      internalID: 8624643325721637123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_118
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 424
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fecf4b445bf82d0800000000000000
+      internalID: -3274199097376182446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_119
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9221be1e3c69a9a60800000000000000
+      internalID: 7681617882486870569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_120
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1986ba02dadf1e2b0800000000000000
+      internalID: -5556881545179207535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 411
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271c1bc33a39ec00800000000000000
+      internalID: 930338792154076972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_122
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de69824b74df7530800000000000000
+      internalID: 3855033431914802904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 408
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c0f5c42b98699d0800000000000000
+      internalID: -2767873522094109595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_124
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 406
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da95d792a535e9e80800000000000000
+      internalID: -8170001027295258195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_125
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 400
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e87d74b682e6400800000000000000
+      internalID: 319237064821804615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_126
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 404
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e49ccc1161fc000800000000000000
+      internalID: 58289585885105777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 343
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede8e31395909110800000000000000
+      internalID: 1265675954217872870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 387
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0c81104b5be7350800000000000000
+      internalID: 6016445936930701501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_129
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 398
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b8d00c2f76d990800000000000000
+      internalID: -7361556713921006754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_130
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 375
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0425b745265e13120800000000000000
+      internalID: 2391945087597367872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_131
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 344
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde5fb62ddbfa2980800000000000000
+      internalID: -8562754814235156771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_132
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 346
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7947700167a52e5e0800000000000000
+      internalID: -1881842231165881193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef8f1c7327b97d0800000000000000
+      internalID: -2910607150361805075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_134
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 303
+        width: 98
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebec071543598b2c0800000000000000
+      internalID: -4415615382699585858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 205
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa453fd77160a80800000000000000
+      internalID: -8501081416894468337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 202
+        width: 49
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372369612ddefa340800000000000000
+      internalID: 4877378408043393651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_137
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 91
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18db6ffeaf6f29da0800000000000000
+      internalID: -5939413400920081023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phaser atlas_138
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 172
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1a1892f7b4db3c0800000000000000
+      internalID: -4342231456185998937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Phaser atlas_0: 420240706469606071
+      Phaser atlas_1: -7143677027808827158
+      Phaser atlas_10: -5411878947863332624
+      Phaser atlas_100: -3845173326102991064
+      Phaser atlas_101: 2701764756067581143
+      Phaser atlas_102: 4986374452568733478
+      Phaser atlas_103: -649730926786148705
+      Phaser atlas_104: 1656773377524502845
+      Phaser atlas_105: -7224328715572170125
+      Phaser atlas_106: -4176836145599949492
+      Phaser atlas_107: -4170784272953234646
+      Phaser atlas_108: -514627115072124738
+      Phaser atlas_109: -756296643935977118
+      Phaser atlas_11: 1174694260921437334
+      Phaser atlas_110: -4056619053159186253
+      Phaser atlas_111: -4817507190092363932
+      Phaser atlas_112: 2316088648086854330
+      Phaser atlas_113: -7535636410997978460
+      Phaser atlas_114: -290101711330091333
+      Phaser atlas_115: -6538252704994545195
+      Phaser atlas_116: 8414061299841917915
+      Phaser atlas_117: 8624643325721637123
+      Phaser atlas_118: -3274199097376182446
+      Phaser atlas_119: 7681617882486870569
+      Phaser atlas_12: 4692530095559051627
+      Phaser atlas_120: -5556881545179207535
+      Phaser atlas_121: 930338792154076972
+      Phaser atlas_122: 3855033431914802904
+      Phaser atlas_123: -2767873522094109595
+      Phaser atlas_124: -8170001027295258195
+      Phaser atlas_125: 319237064821804615
+      Phaser atlas_126: 58289585885105777
+      Phaser atlas_127: 1265675954217872870
+      Phaser atlas_128: 6016445936930701501
+      Phaser atlas_129: -7361556713921006754
+      Phaser atlas_13: -2537068021704171271
+      Phaser atlas_130: 2391945087597367872
+      Phaser atlas_131: -8562754814235156771
+      Phaser atlas_132: -1881842231165881193
+      Phaser atlas_133: -2910607150361805075
+      Phaser atlas_134: -4415615382699585858
+      Phaser atlas_135: -8501081416894468337
+      Phaser atlas_136: 4877378408043393651
+      Phaser atlas_137: -5939413400920081023
+      Phaser atlas_138: -4342231456185998937
+      Phaser atlas_14: -7345542898683608228
+      Phaser atlas_15: -4626988750196202266
+      Phaser atlas_16: -6482095676551222220
+      Phaser atlas_17: -5927502838703729889
+      Phaser atlas_18: 3807749757508486472
+      Phaser atlas_19: -2387065219693345826
+      Phaser atlas_2: 1760780999830721099
+      Phaser atlas_20: 2688422966946563103
+      Phaser atlas_21: -7457313274261211194
+      Phaser atlas_22: -1344254513012755550
+      Phaser atlas_23: 1460068611693336530
+      Phaser atlas_24: 6474011009642865364
+      Phaser atlas_25: -5063145439104822814
+      Phaser atlas_26: -1086229833033585183
+      Phaser atlas_27: -6893385293643864813
+      Phaser atlas_28: -68365119811909034
+      Phaser atlas_29: -1394058622007141666
+      Phaser atlas_3: -150864508706514594
+      Phaser atlas_30: -2009028845024566471
+      Phaser atlas_31: 1415836839199113212
+      Phaser atlas_32: 3846388655454725335
+      Phaser atlas_33: 5580299577756706642
+      Phaser atlas_34: 1972638446233208459
+      Phaser atlas_35: 823431428462001019
+      Phaser atlas_36: -6649548064560406774
+      Phaser atlas_37: 1185277980385791464
+      Phaser atlas_38: -4986901846557580041
+      Phaser atlas_39: -1998994538740530634
+      Phaser atlas_4: 3944072491929548388
+      Phaser atlas_40: 3967887764974355076
+      Phaser atlas_41: 7534496350093284146
+      Phaser atlas_42: -6457810383230852049
+      Phaser atlas_43: -6761554768989169845
+      Phaser atlas_44: -2172380435879789919
+      Phaser atlas_45: 108168464524754109
+      Phaser atlas_46: 6965602729052413712
+      Phaser atlas_47: 4664128746272760535
+      Phaser atlas_48: -4223375475604827898
+      Phaser atlas_49: -6328541687947678756
+      Phaser atlas_5: 651671180215934332
+      Phaser atlas_50: -818262883784884148
+      Phaser atlas_51: -681794160899811619
+      Phaser atlas_52: 4672457550767674687
+      Phaser atlas_53: 67908382486044781
+      Phaser atlas_54: -1733448615760066664
+      Phaser atlas_55: 2122416277231636245
+      Phaser atlas_56: -1130521784151677529
+      Phaser atlas_57: 3845415900506675191
+      Phaser atlas_58: -4177520130905239929
+      Phaser atlas_59: 680131740552682921
+      Phaser atlas_6: 1965462583959535958
+      Phaser atlas_60: -8463760568113687600
+      Phaser atlas_61: -1498602000757267609
+      Phaser atlas_62: -2215437001412971293
+      Phaser atlas_63: 6135311551167321227
+      Phaser atlas_64: 79289699548566983
+      Phaser atlas_65: -2549764345488039537
+      Phaser atlas_66: -6005084693977482755
+      Phaser atlas_67: -2528407213294279772
+      Phaser atlas_68: -5332953149411869044
+      Phaser atlas_69: 2819660564278334548
+      Phaser atlas_7: 2461761022154431468
+      Phaser atlas_70: -2975886584534018890
+      Phaser atlas_71: -5825881559897939616
+      Phaser atlas_72: 8504468388333287531
+      Phaser atlas_73: 669540407203955720
+      Phaser atlas_74: 4800601385329436928
+      Phaser atlas_75: 3907011188584887540
+      Phaser atlas_76: 4977736104997865982
+      Phaser atlas_77: 1583768979316382991
+      Phaser atlas_78: 7014368771684559451
+      Phaser atlas_79: -7889454356728729218
+      Phaser atlas_8: 8897894817574200244
+      Phaser atlas_80: 8390933837070039175
+      Phaser atlas_81: 4437969919073578736
+      Phaser atlas_82: -1148998743881957669
+      Phaser atlas_83: 7501721643374795125
+      Phaser atlas_84: -5306034238639887365
+      Phaser atlas_85: 7032325020913154234
+      Phaser atlas_86: -2602030269929337975
+      Phaser atlas_87: -5681355775771170833
+      Phaser atlas_88: 5025925659555113643
+      Phaser atlas_89: -2648393819419522450
+      Phaser atlas_9: -6424859060035807402
+      Phaser atlas_90: -1176779893241998577
+      Phaser atlas_91: -6793096039736414783
+      Phaser atlas_92: 4431731578700063911
+      Phaser atlas_93: -5622577562061242888
+      Phaser atlas_94: -7699781944992490044
+      Phaser atlas_95: -3621805858400476394
+      Phaser atlas_96: 864395113334553374
+      Phaser atlas_97: 6889042225483905134
+      Phaser atlas_98: 7797451649385227556
+      Phaser atlas_99: -6705792652920286584
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
