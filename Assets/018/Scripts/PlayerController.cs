@@ -1,3 +1,4 @@
+//Maria Tumidajewicz, Maciej Tuleja
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -40,25 +41,42 @@ namespace Game018
 
         void Update()
         {
-            animator.SetBool("isRunning", false);
-            spriteRenderer.flipX = false;
-            if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
+            if (GameMenager.Instance.currentGameState == GameState.GAME)
             {
-                transform.Translate( moveSpeed * Time.deltaTime, 0.0f, 0.0f, Space.World);
-                animator.SetBool("isRunning", true);
+
+                animator.SetBool("isRunning", false);
+                spriteRenderer.flipX = false;
+                if (Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D))
+                {
+                    transform.Translate(moveSpeed * Time.deltaTime, 0.0f, 0.0f, Space.World);
+                    animator.SetBool("isRunning", true);
+                }
+                if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+                {
+                    transform.Translate(-moveSpeed * Time.deltaTime, 0.0f, 0.0f, Space.World);
+                    animator.SetBool("isRunning", true);
+                    spriteRenderer.flipX = true;
+                }
+                if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
+                {
+                    Jump();
+                }
+
+                //Debug.DrawRay(transform.position, rayLength * Vector2.down, Color.white, 0.2f);
+                animator.SetBool("isGrounded", IsGrounded());
             }
-            if (Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A))
+
+            if (Input.GetKeyDown(KeyCode.Escape))
             {
-                transform.Translate(-moveSpeed * Time.deltaTime, 0.0f, 0.0f, Space.World);
-                animator.SetBool("isRunning", true);
-                spriteRenderer.flipX = true;    
+                if (GameMenager.Instance.currentGameState == GameState.GAME)
+                {
+                    GameMenager.Instance.PauseMenu();
+                }
+                else if (GameMenager.Instance.currentGameState == GameState.PAUSE_MENU)
+                {
+                    GameMenager.Instance.InGame();
+                }
             }
-            if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
-            {
-                Jump();
-            }
-            //Debug.DrawRay(transform.position, rayLength * Vector2.down, Color.white, 0.2f);
-            animator.SetBool("isGrounded", IsGrounded());
         }
 
         private void OnTriggerEnter2D(Collider2D collision)
@@ -74,6 +92,7 @@ namespace Game018
             if (collision.CompareTag("bonus"))
             {
                 Debug.Log("bonus");
+                GameMenager.Instance.AddPoints(10);
                 collision.gameObject.SetActive(false);
             }
             if (collision.CompareTag("Enemy"))
