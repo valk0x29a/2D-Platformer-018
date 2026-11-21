@@ -41,7 +41,7 @@ namespace Game018
 
         void Update()
         {
-            if (GameMenager.Instance.currentGameState == GameState.GAME)
+            if (GameManager.Instance.currentGameState == GameState.GAME)
             {
 
                 animator.SetBool("isRunning", false);
@@ -65,34 +65,27 @@ namespace Game018
                 //Debug.DrawRay(transform.position, rayLength * Vector2.down, Color.white, 0.2f);
                 animator.SetBool("isGrounded", IsGrounded());
             }
-
-            if (Input.GetKeyDown(KeyCode.Escape))
-            {
-                if (GameMenager.Instance.currentGameState == GameState.GAME)
-                {
-                    GameMenager.Instance.PauseMenu();
-                }
-                else if (GameMenager.Instance.currentGameState == GameState.PAUSE_MENU)
-                {
-                    GameMenager.Instance.InGame();
-                }
-            }
         }
 
         private void OnTriggerEnter2D(Collider2D collision)
         {
             if(collision.CompareTag("LevelExit"))
             {
-                Debug.Log("Game Over");
+                GameManager.Instance.LevelCompleted();
             }
             if(collision.CompareTag("LevelFall"))
             {
                 SceneManager.LoadScene("Level 1");
             }
-            if (collision.CompareTag("bonus"))
+            if (collision.CompareTag("Bonus"))
             {
-                Debug.Log("bonus");
-                GameMenager.Instance.AddPoints(10);
+                GameManager.Instance.AddPoints(10);
+                collision.gameObject.SetActive(false);
+            }
+            if (collision.CompareTag("Heart"))
+            {
+                GameManager.Instance.AddLives(1);
+                Debug.Log("Zdobyto 1 życie!");
                 collision.gameObject.SetActive(false);
             }
             if (collision.CompareTag("Enemy"))
@@ -100,6 +93,11 @@ namespace Game018
                 if (transform.position.y > collision.gameObject.transform.position.y)
                 {
                     Debug.Log("killed an enemy");
+                }
+                else
+                {
+                    GameManager.Instance.AddLives(-1);
+                    Debug.LogFormat("Wróg zadał zadał ci {1} obrażenia", 1);
                 }
             }
         }

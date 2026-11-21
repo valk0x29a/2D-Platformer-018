@@ -6,6 +6,9 @@ TagManager:
   tags:
   - LevelExit
   - LevelFall
+  - Enemy
+  - Bonus
+  - Heart
   layers:
   - Default
   - TransparentFX
