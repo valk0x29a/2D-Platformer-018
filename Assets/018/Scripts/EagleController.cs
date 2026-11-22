@@ -13,7 +13,7 @@ public class EagleController : MonoBehaviour
     const float rayLength = 1.25f;
     float startPositionX = 1.0f;
     bool isMovingRight = false;
-
+    bool isDead = false;
 
     Animator animator;
     SpriteRenderer spriteRenderer;
@@ -71,13 +71,16 @@ public class EagleController : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (isDead) return;
         if (collision.CompareTag("Player"))
         {
             if (transform.position.y < collision.transform.position.y)
             {
+                isDead = true;
                 animator.SetBool("isDead", true);
                 StartCoroutine(KillOnAnimationEnd());
             }
+       
         }
     }
 

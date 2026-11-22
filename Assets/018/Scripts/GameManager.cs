@@ -23,6 +23,8 @@ public class GameManager : MonoBehaviour
     public Canvas levelCompletedCanvas;
     private int score = 0;
     private int livesNum = 3;
+    private float time = 0;
+    public GameObject[] hearts;
 
     void Awake()
     {
@@ -62,7 +64,22 @@ public class GameManager : MonoBehaviour
 
     public void AddLives(int lives)
     {
-        livesNum += lives;
+        livesNum = Mathf.Clamp(livesNum + lives, 0, 3);
+        UpdateLivesUI();
+
+        if (livesNum <= 0)
+        {
+            GameOver();
+        }
+       
+    }
+
+    private void UpdateLivesUI()
+    {
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            hearts[i].SetActive(i < livesNum);
+        }
     }
 
     void SetGameState(GameState newGameState)
