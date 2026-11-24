@@ -21,10 +21,18 @@ public class GameManager : MonoBehaviour
     public TMP_Text scoreLabel;
     public Canvas pauseMenuCanvas;
     public Canvas levelCompletedCanvas;
-    private int score = 0;
-    private int livesNum = 3;
-    private float time = 0;
+    public TMP_Text timerLabel;
     public GameObject[] hearts;
+    public TMP_Text EnemyLabel;
+
+    private int score = 0;
+    private int eagles = 0;
+    private int livesNum = 3;
+    private float timer = 0;
+    public int keysFound = 0;
+    public int maxKeysNumber = 3;
+    private bool keysCompleted = false;
+
 
     void Awake()
     {
@@ -42,6 +50,12 @@ public class GameManager : MonoBehaviour
 
     void Update()
     {
+        if (currentGameState == GameState.GAME)
+        {
+            timer += Time.deltaTime;
+            UpdateTimerUI();
+        }
+
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             if (currentGameState == GameState.GAME)
@@ -55,12 +69,28 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    private void UpdateTimerUI()
+    {
+        int totalSeconds = Mathf.FloorToInt(timer);
+        int minutes = totalSeconds / 60;
+        int seconds = totalSeconds % 60;
+        timerLabel.text = string.Format("{0:00}:{1:00}", minutes, seconds);
+    }
+
     public void AddPoints(int points)
     {
         score += points;
         Debug.Log("Score: " + score);
         scoreLabel.text = score.ToString();
     }
+
+
+    public void AddEnemies(int points)
+    {
+        eagles += points;
+        EnemyLabel.text = eagles.ToString();
+    } 
+
 
     public void AddLives(int lives)
     {
@@ -72,6 +102,16 @@ public class GameManager : MonoBehaviour
             GameOver();
         }
        
+    }
+
+    public void AddKeys()
+    {
+        keysFound++;
+        if (keysFound >= maxKeysNumber)
+        {
+            keysCompleted = true;
+            Debug.Log("All keys found!");
+        }
     }
 
     private void UpdateLivesUI()

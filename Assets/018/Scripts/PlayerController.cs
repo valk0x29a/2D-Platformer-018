@@ -70,8 +70,18 @@ namespace Game018
         private void OnTriggerEnter2D(Collider2D collision)
         {
             if(collision.CompareTag("LevelExit"))
-            {
-                GameManager.Instance.LevelCompleted();
+            {   
+                if(GameManager.Instance.keysFound >= GameManager.Instance.maxKeysNumber)
+                {
+                    Debug.Log("Poziom ukończony!");
+                    GameManager.Instance.LevelCompleted();
+                }
+                else
+                {
+                    Debug.Log("Potrzebujesz 3 kluczy do przejścia przez drzwi!");
+                }
+               
+
             }
             if(collision.CompareTag("LevelFall"))
             {
@@ -88,11 +98,18 @@ namespace Game018
                 Debug.Log("Zdobyto 1 życie!");
                 collision.gameObject.SetActive(false);
             }
+            if (collision.CompareTag("Key"))
+            {
+                GameManager.Instance.AddKeys();
+                Debug.Log("Zdobyto 1 klucz!");
+                collision.gameObject.SetActive(false);
+            }
             if (collision.CompareTag("Enemy"))
             {
                 if (transform.position.y > collision.gameObject.transform.position.y)
                 {
                     Debug.Log("killed an enemy");
+                    GameManager.Instance.AddEnemies(1);
                 }
                 else
                 {

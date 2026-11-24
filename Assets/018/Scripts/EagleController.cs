@@ -79,6 +79,7 @@ public class EagleController : MonoBehaviour
                 isDead = true;
                 animator.SetBool("isDead", true);
                 StartCoroutine(KillOnAnimationEnd());
+               
             }
        
         }

@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Bonus
   - Heart
+  - Key
   layers:
   - Default
   - TransparentFX
