@@ -724,6 +724,7 @@ MonoBehaviour:
   - {fileID: 743721915}
   - {fileID: 1319357508}
   EnemyLabel: {fileID: 595317806}
+  CongratulationsLabel: {fileID: 1809399787}
   keysFound: 0
   maxKeysNumber: 3
 --- !u!4 &406986696
@@ -985,7 +986,7 @@ GameObject:
   - component: {fileID: 526613510}
   - component: {fileID: 526613509}
   m_Layer: 0
-  m_Name: Background (1)
+  m_Name: TextBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16423,6 +16424,17 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 1324003428239989725, guid: ac0a18dd3cecbae47af0be9b1bd1719f, type: 3}
   m_PrefabInstance: {fileID: 1809399785}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1809399787 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 7691779374731224111, guid: ac0a18dd3cecbae47af0be9b1bd1719f, type: 3}
+  m_PrefabInstance: {fileID: 1809399785}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1001 &1846860989
 PrefabInstance:
   m_ObjectHideFlags: 0
