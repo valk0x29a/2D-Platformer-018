@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
     public Canvas pauseMenuCanvas;
     public Canvas levelCompletedCanvas;
     public TMP_Text timerLabel;
-    public TMP_Text keyLabel;
+    public Image[] keysTab;
     public GameObject[] hearts;
     public TMP_Text EnemyLabel;
 
@@ -46,15 +46,19 @@ public class GameManager : MonoBehaviour
             Instance = this;
             scoreLabel.text = score.ToString();
             InGame();
+            for (int i = 0; i < maxKeysNumber; i++)
+            {
+                keysTab[i].color = Color.grey;
+            }
+
+            if (!PlayerPrefs.HasKey(keyHighScore))
+            {
+                PlayerPrefs.SetInt(keyHighScore, 0);
+            }
         }
         else
         {
             Debug.LogError("Duplicated Game Manager", gameObject);
-        }
-
-        if (!PlayerPrefs.HasKey(keyHighScore))
-        {
-            PlayerPrefs.SetInt(keyHighScore, 0);
         }
     }
 
@@ -114,10 +118,21 @@ public class GameManager : MonoBehaviour
        
     }
 
-    public void AddKeys()
+    public void AddKeys(int keyIndex)
     {
         keysFound++;
-        keyLabel.text = keysFound.ToString() + "/" + maxKeysNumber.ToString();
+        switch (keyIndex)
+        {
+            case 0:
+                keysTab[keyIndex].color = Color.blue;
+                break;
+            case 1:
+                keysTab[keyIndex].color = Color.red;
+                break;
+            case 2:
+                keysTab[keyIndex].color = Color.green;
+                break;
+        }
         if (keysFound >= maxKeysNumber)
         {
             keysCompleted = true;

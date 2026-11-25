@@ -100,7 +100,20 @@ namespace Game018
             }
             if (collision.CompareTag("Key"))
             {
-                GameManager.Instance.AddKeys();
+                int keyIndex = -1;
+                if(collision.gameObject.GetComponent<SpriteRenderer>().color.b == 1.0f)
+                {
+                    keyIndex = 0;
+                }
+                if(collision.gameObject.GetComponent<SpriteRenderer>().color.r == 1.0f)
+                {
+                    keyIndex = 1;
+                }
+                if(collision.gameObject.GetComponent<SpriteRenderer>().color.g == 1.0f)
+                {
+                    keyIndex = 2;
+                }
+                GameManager.Instance.AddKeys(keyIndex);
                 Debug.Log("Zdobyto 1 klucz!");
                 collision.gameObject.SetActive(false);
             }
@@ -114,7 +127,7 @@ namespace Game018
                 else
                 {
                     GameManager.Instance.AddLives(-1);
-                    Debug.LogFormat("Wróg zadał zadał ci {1} obrażenia", 1);
+                    Debug.LogFormat("Wróg zadał zadał ci {0} obrażenia", 1);
                 }
             }
         }
