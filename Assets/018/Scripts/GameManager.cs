@@ -27,6 +27,8 @@ public class GameManager : MonoBehaviour
     public Image[] keysTab;
     public GameObject[] hearts;
     public TMP_Text EnemyLabel;
+    public TMP_Text CongratulationsLabel;
+
 
     private int score = 0;
     private int eagles = 0;
@@ -45,6 +47,7 @@ public class GameManager : MonoBehaviour
         {
             Instance = this;
             scoreLabel.text = score.ToString();
+            EnemyLabel.text = eagles.ToString();
             InGame();
             for (int i = 0; i < maxKeysNumber; i++)
             {
@@ -99,9 +102,9 @@ public class GameManager : MonoBehaviour
     }
 
 
-    public void AddEnemies(int points)
+    public void AddEnemies(int eagleCount)
     {
-        eagles += points;
+        eagles += eagleCount;
         EnemyLabel.text = eagles.ToString();
     } 
 
@@ -168,6 +171,7 @@ public class GameManager : MonoBehaviour
 
             scoreLabel1.text = "Your score: " + score.ToString();
             highscoreLabel.text = "The best score: " + PlayerPrefs.GetInt(keyHighScore, 0).ToString();
+            CongratulationsLabel.text = livesNum > 0 ? "Congratulations! Level Completed" : "Game Over! \n Try again";
 
         }
         gameCanvas.enabled = currentGameState == GameState.GAME;

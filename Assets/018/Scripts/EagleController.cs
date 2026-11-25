@@ -36,14 +36,10 @@ public class EagleController : MonoBehaviour
         transform.Translate(-moveSpeed * Time.deltaTime, 0.0f, 0.0f, Space.World);
         spriteRenderer.flipX = false;
     }
-    void Start()
-    {
 
-    }
-
-    // Update is called once per frame
     void Update()
     {
+        if (isDead) { return; }
         if (isMovingRight)
         {
             if (transform.position.x < startPositionX + moveRange)
@@ -79,15 +75,13 @@ public class EagleController : MonoBehaviour
                 isDead = true;
                 animator.SetBool("isDead", true);
                 StartCoroutine(KillOnAnimationEnd());
-               
             }
-       
         }
     }
 
-        private IEnumerator KillOnAnimationEnd()
+    private IEnumerator KillOnAnimationEnd()
     {
-        yield return new WaitForSeconds(1.0f);
+        yield return new WaitForSeconds(0.33f);
         gameObject.SetActive(false);
     }
 }
